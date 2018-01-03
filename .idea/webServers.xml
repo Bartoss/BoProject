@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ceefbf78-3e67-4d29-864e-2eb7e796cae2" name="s19.mydevil.net" url="http://s19.mydevil.net">
+        <fileTransfer host="s19.mydevil.net" port="22" rootFolder="/usr/home/BartekSXX" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
