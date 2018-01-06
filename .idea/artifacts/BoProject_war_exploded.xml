@@ -58,6 +58,7 @@
           <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.8-dmr" />
           <element id="library" level="project" name="Maven: org.xerial:sqlite-jdbc:3.21.0.1" />
+          <element id="library" level="project" name="Maven: com.enigmabridge:hibernate4-sqlite-dialect:0.1.2" />
         </element>
       </element>
     </root>
