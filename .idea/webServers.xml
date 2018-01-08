@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ceefbf78-3e67-4d29-864e-2eb7e796cae2" name="s19.mydevil.net" url="http://s19.mydevil.net">
-        <fileTransfer host="s19.mydevil.net" port="22" rootFolder="/usr/home/BartekSXX" accessType="SFTP">
+      <webServer id="30f59465-1d88-4f64-b4d6-f4d4aa036fb4" name="OVH" url="http://vps499537.ovh.net">
+        <fileTransfer host="vps499537.ovh.net" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
