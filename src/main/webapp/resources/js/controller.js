@@ -1,5 +1,5 @@
 /**
- * Created by Le on 1/11/2016.
+ *  Created by Bartek
  */
 
 var cartApp = angular.module ("cartApp", []);
